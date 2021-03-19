@@ -65,6 +65,7 @@ calli.on("message", async message => {
       .setDescription(`
 ━────╮🛠╭────━
 **Info Command**
+chata up
 \`${prefix}botinfo\` - \`${prefix}userinfo\`
 \`${prefix}serverinfo\` - \`${prefix}ping\`
 ━────╮🛠╭────━
