@@ -1,10 +1,10 @@
 {
-  "name": "Calli",
+  "name": "zamo",
   "version": "2.1.0",
-  "description": "Calli",
-  "main": "calli.js",
+  "description": "zamo",
+  "main": "zamo",
   "scripts": {
-    "start": "node calli.js"
+    "start": "zamo"
   },
   "dependencies": {
     "discord.js": "^12.4.0",
